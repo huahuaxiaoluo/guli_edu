@@ -1,0 +1,16 @@
+DELETE http://localhost:8001/delete/2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-08T102956.200.json
+
+###
+
+DELETE http://localhost:8001/delete/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-07T113335.200.json
+
+###
+

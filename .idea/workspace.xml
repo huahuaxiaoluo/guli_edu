@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf0f6320-011d-464e-8db7-196c96445b3b" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response1.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.8.4\repository" />
+        <option name="mavenHome" value="C:\Users\sj\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AFcKzs4pX4lMmvBtqqgjC9Anae" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo/src/main/java/com/ssm/spring/enums/SexEnum.java" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.556962" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.c4.mapper" />
+      <recent name="com.c4.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\apache-tomcat-9.0.55\webapps\guli_parent\service\service-edu\src\main\java\com\c4\service" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/delete/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8001" />
+          <option name="urlPath" value="/delete/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduTeacherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.c4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.c4.EduTeacherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EduTeacherApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0f6320-011d-464e-8db7-196c96445b3b" name="默认的" comment="" />
+      <created>1654608714198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654608714198</updated>
+      <workItem from="1654608715945" duration="202000" />
+      <workItem from="1654608958946" duration="1525000" />
+      <workItem from="1654610537646" duration="7153000" />
+      <workItem from="1654693642644" duration="10562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654611925892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654611925892" />
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1654696808805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1654696808805" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1654695710501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654695710501" />
+    <state x="739" y="256" key="#com.intellij.ws.actions.GenerateWsdlFromJavaDialog" timestamp="1654615926748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="256" key="#com.intellij.ws.actions.GenerateWsdlFromJavaDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654615926748" />
+    <state x="440" y="94" key="#项目结构" timestamp="1654698470267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1654698470267" />
+    <state x="1480" y="385" key="FileChooserDialogImpl" timestamp="1654695378564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1480" y="385" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654695378564" />
+    <state width="1292" height="282" key="GridCell.Tab.0.bottom" timestamp="1654704396038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396038" />
+    <state width="1292" height="282" key="GridCell.Tab.0.center" timestamp="1654704396038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396038" />
+    <state width="1292" height="282" key="GridCell.Tab.0.left" timestamp="1654704396038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396038" />
+    <state width="1292" height="282" key="GridCell.Tab.0.right" timestamp="1654704396038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396038" />
+    <state width="1292" height="282" key="GridCell.Tab.1.bottom" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state width="1292" height="282" key="GridCell.Tab.1.center" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state width="1292" height="282" key="GridCell.Tab.1.left" timestamp="1654704396038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396038" />
+    <state width="1292" height="282" key="GridCell.Tab.1.right" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state width="1292" height="282" key="GridCell.Tab.2.bottom" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state width="1292" height="282" key="GridCell.Tab.2.center" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state width="1292" height="282" key="GridCell.Tab.2.left" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state width="1292" height="282" key="GridCell.Tab.2.right" timestamp="1654704396039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1292" height="282" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654704396039" />
+    <state x="430" y="180" key="new project wizard" timestamp="1654694789601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="430" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1654694789601" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654698590500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654698590500" />
+  </component>
+</project>
